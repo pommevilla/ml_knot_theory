@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "ML + Knot Theory\nBased on previous work:\n\nThe Wirtinger number for knots with 16 or fewer crossings\nHomomorphisms to finite Coxeter groups for knots with 16 or fewer crossings\nAdvancing mathematics by guiding human intuition with AI"
+  }
+]
